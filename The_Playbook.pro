@@ -134,12 +134,10 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 DISTFILES += \
-    ../../../../Desktop/UtahFootballField.png \
     Box2D/Box2DConfig.cmake \
     Box2D/CMakeLists.txt \
-    FullField.png \
-    HalfField.png
+    assets/FullField.png \
+    assets/HalfField.png
 
 RESOURCES += \
-    Resources.qrc \
     Resources.qrc

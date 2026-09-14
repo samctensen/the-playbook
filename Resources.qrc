@@ -1,26 +1,26 @@
 <RCC>
     <qresource prefix="/Images">
-        <file>FullField.png</file>
-        <file>HalfField.png</file>
-        <file>football.png</file>
-        <file>1.png</file>
-        <file>2.png</file>
-        <file>3.png</file>
-        <file>4.png</file>
-        <file>5.png</file>
-        <file>6.png</file>
-        <file>7.png</file>
-        <file>8.png</file>
-        <file>9.png</file>
-        <file>1_flip.png</file>
-        <file>2_flip.png</file>
-        <file>3_flip.png</file>
-        <file>4_flip.png</file>
-        <file>5_flip.png</file>
-        <file>6_flip.png</file>
-        <file>7_flip.png</file>
-        <file>8_flip.png</file>
-        <file>Spread.png</file>
+        <file alias="FullField.png">assets/FullField.png</file>
+        <file alias="HalfField.png">assets/HalfField.png</file>
+        <file alias="football.png">assets/football.png</file>
+        <file alias="1.png">assets/1.png</file>
+        <file alias="2.png">assets/2.png</file>
+        <file alias="3.png">assets/3.png</file>
+        <file alias="4.png">assets/4.png</file>
+        <file alias="5.png">assets/5.png</file>
+        <file alias="6.png">assets/6.png</file>
+        <file alias="7.png">assets/7.png</file>
+        <file alias="8.png">assets/8.png</file>
+        <file alias="9.png">assets/9.png</file>
+        <file alias="1_flip.png">assets/1_flip.png</file>
+        <file alias="2_flip.png">assets/2_flip.png</file>
+        <file alias="3_flip.png">assets/3_flip.png</file>
+        <file alias="4_flip.png">assets/4_flip.png</file>
+        <file alias="5_flip.png">assets/5_flip.png</file>
+        <file alias="6_flip.png">assets/6_flip.png</file>
+        <file alias="7_flip.png">assets/7_flip.png</file>
+        <file alias="8_flip.png">assets/8_flip.png</file>
+        <file alias="Spread.png">assets/Spread.png</file>
         <file>studypage.cpp</file>
         <file>studypage.h</file>
         <file>studypage.ui</file>
@@ -28,56 +28,55 @@
         <file>testpage.h</file>
         <file>testpage.ui</file>
         <file>The_Playbook.pro</file>
-        <file>The_Playbook.pro.user</file>
-        <file>Wishbone.png</file>
-        <file>GoalLine.png</file>
-        <file>I-Formation.png</file>
-        <file>ProSet.png</file>
-        <file>Shotgun.png</file>
-        <file>SingleBack.png</file>
-        <file>r1_flip.png</file>
-        <file>r1.png</file>
-        <file>r2_flip.png</file>
-        <file>r2.png</file>
-        <file>r3_flip.png</file>
-        <file>r3.png</file>
-        <file>r4_flip.png</file>
-        <file>r4.png</file>
-        <file>r5_flip.png</file>
-        <file>r5.png</file>
-        <file>GoalLineField.png</file>
-        <file>I-FormationField.png</file>
-        <file>ProSetField.png</file>
-        <file>ShotgunField.png</file>
-        <file>SingleBackField.png</file>
-        <file>SpreadField.png</file>
-        <file>WishboneField.png</file>
-        <file>1_flip_hot.png</file>
-        <file>1_hot.png</file>
-        <file>2_flip_hot.png</file>
-        <file>2_hot.png</file>
-        <file>3_flip_hot.png</file>
-        <file>3_hot.png</file>
-        <file>4_flip_hot.png</file>
-        <file>4_hot.png</file>
-        <file>5_flip_hot.png</file>
-        <file>5_hot.png</file>
-        <file>6_flip_hot.png</file>
-        <file>6_hot.png</file>
-        <file>7_flip_hot.png</file>
-        <file>7_hot.png</file>
-        <file>8_flip_hot.png</file>
-        <file>8_hot.png</file>
-        <file>9_hot.png</file>
-        <file>r1_flip_hot.png</file>
-        <file>r1_hot.png</file>
-        <file>r2_flip_hot.png</file>
-        <file>r2_hot.png</file>
-        <file>r3_flip_hot.png</file>
-        <file>r3_hot.png</file>
-        <file>r4_flip_hot.png</file>
-        <file>r4_hot.png</file>
-        <file>r5_flip_hot.png</file>
-        <file>r5_hot.png</file>
+        <file alias="Wishbone.png">assets/Wishbone.png</file>
+        <file alias="GoalLine.png">assets/GoalLine.png</file>
+        <file alias="I-Formation.png">assets/I-Formation.png</file>
+        <file alias="ProSet.png">assets/ProSet.png</file>
+        <file alias="Shotgun.png">assets/Shotgun.png</file>
+        <file alias="SingleBack.png">assets/SingleBack.png</file>
+        <file alias="r1_flip.png">assets/r1_flip.png</file>
+        <file alias="r1.png">assets/r1.png</file>
+        <file alias="r2_flip.png">assets/r2_flip.png</file>
+        <file alias="r2.png">assets/r2.png</file>
+        <file alias="r3_flip.png">assets/r3_flip.png</file>
+        <file alias="r3.png">assets/r3.png</file>
+        <file alias="r4_flip.png">assets/r4_flip.png</file>
+        <file alias="r4.png">assets/r4.png</file>
+        <file alias="r5_flip.png">assets/r5_flip.png</file>
+        <file alias="r5.png">assets/r5.png</file>
+        <file alias="GoalLineField.png">assets/GoalLineField.png</file>
+        <file alias="I-FormationField.png">assets/I-FormationField.png</file>
+        <file alias="ProSetField.png">assets/ProSetField.png</file>
+        <file alias="ShotgunField.png">assets/ShotgunField.png</file>
+        <file alias="SingleBackField.png">assets/SingleBackField.png</file>
+        <file alias="SpreadField.png">assets/SpreadField.png</file>
+        <file alias="WishboneField.png">assets/WishboneField.png</file>
+        <file alias="1_flip_hot.png">assets/1_flip_hot.png</file>
+        <file alias="1_hot.png">assets/1_hot.png</file>
+        <file alias="2_flip_hot.png">assets/2_flip_hot.png</file>
+        <file alias="2_hot.png">assets/2_hot.png</file>
+        <file alias="3_flip_hot.png">assets/3_flip_hot.png</file>
+        <file alias="3_hot.png">assets/3_hot.png</file>
+        <file alias="4_flip_hot.png">assets/4_flip_hot.png</file>
+        <file alias="4_hot.png">assets/4_hot.png</file>
+        <file alias="5_flip_hot.png">assets/5_flip_hot.png</file>
+        <file alias="5_hot.png">assets/5_hot.png</file>
+        <file alias="6_flip_hot.png">assets/6_flip_hot.png</file>
+        <file alias="6_hot.png">assets/6_hot.png</file>
+        <file alias="7_flip_hot.png">assets/7_flip_hot.png</file>
+        <file alias="7_hot.png">assets/7_hot.png</file>
+        <file alias="8_flip_hot.png">assets/8_flip_hot.png</file>
+        <file alias="8_hot.png">assets/8_hot.png</file>
+        <file alias="9_hot.png">assets/9_hot.png</file>
+        <file alias="r1_flip_hot.png">assets/r1_flip_hot.png</file>
+        <file alias="r1_hot.png">assets/r1_hot.png</file>
+        <file alias="r2_flip_hot.png">assets/r2_flip_hot.png</file>
+        <file alias="r2_hot.png">assets/r2_hot.png</file>
+        <file alias="r3_flip_hot.png">assets/r3_flip_hot.png</file>
+        <file alias="r3_hot.png">assets/r3_hot.png</file>
+        <file alias="r4_flip_hot.png">assets/r4_flip_hot.png</file>
+        <file alias="r4_hot.png">assets/r4_hot.png</file>
+        <file alias="r5_flip_hot.png">assets/r5_flip_hot.png</file>
+        <file alias="r5_hot.png">assets/r5_hot.png</file>
     </qresource>
 </RCC>
